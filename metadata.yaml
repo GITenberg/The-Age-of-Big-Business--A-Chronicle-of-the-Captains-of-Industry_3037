@@ -1,0 +1,29 @@
+_repo: The-Age-of-Big-Business--A-Chronicle-of-the-Captains-of-Industry_3037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hendrick, Burton Jesse
+    birthdate: 1870
+    deathdate: 1949
+    gutenberg_agent_id: '1097'
+    url: http://www.gutenberg.org/2009/agents/1097
+description: Chronicles of America series; v. 39
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Industries -- United States -- History'
+- !lcsh 'Big business -- United States -- History'
+- !lcc 'HC'
+- GITenberg
+title: 'The Age of Big Business: A Chronicle of the Captains of Industry'
+url: http://www.gutenberg.org/ebooks/3037
